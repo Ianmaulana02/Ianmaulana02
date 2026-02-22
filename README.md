@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ian! 👋
 
-<!--
-**Ianmaulana02/Ianmaulana02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst 📊
 
-Here are some ideas to get you started:
+I'm currently on a journey to become a Data Analyst. I enjoy learning how to turn raw data into meaningful insights. I believe in "Learn in Public" and use this GitHub to document my progress, projects, and milestones!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus
+- 📖 Deepening my knowledge in **SQL** for database querying and manipulation.
+- 🐍 Learning **Python** (Pandas, NumPy) for data cleaning and exploratory data analysis (EDA).
+- 🏗️ Building my foundational portfolio.
+
+### 🛠️ Tech Stack & Tools (Learning in Progress)
+- **Languages:** SQL, Python
+- **Spreadsheets:** Microsoft Excel, Google Sheets
+- **Tools:** Jupyter Notebook
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Masukkan URL LinkedIn Lo di sini, misal: https://linkedin.com/in/ianmaulana02]
+- **Email:** [Masukkan Email Lo di sini]
+
+---
+⭐️ *Thanks for visiting my profile!*
