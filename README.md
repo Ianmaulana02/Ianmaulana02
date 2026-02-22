@@ -17,8 +17,8 @@ I'm currently on a journey to become a Data Analyst. I enjoy learning how to tur
 - **Tools:** Jupyter Notebook
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Masukkan URL LinkedIn Lo di sini, misal: https://linkedin.com/in/ianmaulana02]
-- **Email:** [Masukkan Email Lo di sini]
+- **LinkedIn:**
+- **Email:**
 
 ---
 ⭐️ *Thanks for visiting my profile!*
